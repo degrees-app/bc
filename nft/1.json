@@ -1,5 +1,5 @@
 {
-  "image": "https://raw.githubusercontent.com/degrees-app/bc/main/assets/image_1.svg",
+  "image": "https://raw.githubusercontent.com/degrees-app/bc/main/nft/image_1.svg",
   "attributes": [
     {
       "trait_type": "Layer",
@@ -7,10 +7,10 @@
     },
     {
       "trait_type": "Number",
-      "value": "38"
+      "value": "1"
     }
   ],
   "description": "Testet Faces° Item",
   "marketplace": "getgems.io",
-  "name": "A038"
+  "name": "A001"
 }
