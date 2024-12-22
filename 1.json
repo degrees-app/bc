@@ -1,0 +1,15 @@
+{
+  "name": "NFT #1",
+  "description": "Первый NFT в коллекции.",
+  "image": "https://raw.githubusercontent.com/degrees-app/bc/main/assets/image_1.png",
+  "attributes": [
+    {
+      "trait_type": "Layer",
+      "value": "Animation"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}
