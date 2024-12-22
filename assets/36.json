@@ -1,6 +1,4 @@
 {
-  "marketplace": "getgems.io",
-  "name": "NFT #1",
   "image": "https://raw.githubusercontent.com/degrees-app/bc/main/assets/image_1.svg",
   "attributes": [
     {
@@ -12,5 +10,7 @@
       "value": "1"
     }
   ],
-  "description": "Testet Faces° Item"
+  "description": "Testet Faces° Item",
+  "marketplace": "getgems.io",
+  "name": "A001"
 }
