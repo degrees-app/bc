@@ -1,6 +1,6 @@
 {
+  "marketplace": "getgems.io",
   "name": "NFT #1",
-  "description": "Первый NFT в коллекции.",
   "image": "https://raw.githubusercontent.com/degrees-app/bc/main/assets/image_1.svg",
   "attributes": [
     {
@@ -11,5 +11,6 @@
       "trait_type": "Number",
       "value": "1"
     }
-  ]
+  ],
+  "description": "Testet Faces° Item"
 }
