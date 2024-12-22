@@ -1,0 +1,16 @@
+{
+  "image": "https://raw.githubusercontent.com/degrees-app/bc/main/assets/image_1.svg",
+  "attributes": [
+    {
+      "trait_type": "Layer",
+      "value": "Animation"
+    },
+    {
+      "trait_type": "Number",
+      "value": "38"
+    }
+  ],
+  "description": "Testet Faces° Item",
+  "marketplace": "getgems.io",
+  "name": "A038"
+}
